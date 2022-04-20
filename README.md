@@ -41,7 +41,7 @@ This is what you need to use for the software and how to install them.
   ```
 * xampp
 ```sh
-https://www.mysql.com/downloads/
+https://www.apachefriends.org/download.html
 ```
 
 
