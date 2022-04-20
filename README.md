@@ -3,18 +3,18 @@
 <!-- PROJECT LOGO -->
 <h3 align="center">Admin Panel</h3>
 
-  <p align="center">
-    Dashbaord is used by us to manage the content of our website, who is the owner of the website, he can hide and show anything post update from his end.
-    <br />
-  </p>
-</div>
-<br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+  <p align="center">
+    Dashbaord is used by us to manage the content of our website, who is the owner of the website, he can hide and show anything post update from his end.
+    <br />
+  </p>
+</div>
+<br>
 
 
 ### Built With
